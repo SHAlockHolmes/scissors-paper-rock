@@ -14,6 +14,8 @@ Nothing fancy, but a random number generator that generates positive integer num
 
 The instant the user chooses an option, the random number generator runs its code, determining the computer's moves. 
 
+!!! The code is in file Game2.java
+
 # Breakdown of code
 ## List of Frames
 1.	**start**:
